@@ -10,7 +10,7 @@ I am a developer passionate about technology and creativity. I love exploring ne
 Below is an image that represents my portfolio and creative approach:
 
 <div align="center">
-    <img width="1843" height="910" alt="image" src="https://github.com/user-attachments/assets/2362e76c-86d9-4480-bd09-9278be0a7f6a" />
+    <img width="1839" height="908" alt="image" src="https://github.com/user-attachments/assets/862e6063-c9d2-444c-a5b4-add6c02f455d" />
 </div>
 
 Feel free to explore my work and reach out if you’d like to collaborate!
